@@ -103,5 +103,5 @@ theme: solitude
 deploy:
   type: git
   repo: git@github.com:xiatianz/myblogsss.git
-  branch: main
+  branch: master
 
